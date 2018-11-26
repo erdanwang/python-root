@@ -1,3 +1,3 @@
 # python-root
 
-I'm frist do this
+I'm frist to do this
